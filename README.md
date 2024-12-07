@@ -7,8 +7,11 @@ The repository contains preprocessing, fine-tuning, and evaluation notebooks for
 Repository Structure
 
 ├── AAI_521_Project_Preprocessing.ipynb    # Preprocesses CIFAR-100 data for all tasks
+
 ├── AAI_521_Project_Fine_Tuning.ipynb      # Fine-tunes models for each task
+
 ├── AAI_521_Project_Evaluation_Metrics.ipynb # Evaluates models using various metrics
+
 ├── README.md                              # Overview of the project
 
 Tasks
